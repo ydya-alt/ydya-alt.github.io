@@ -1,0 +1,5 @@
+{
+  "permissions": [ "activeTab" ],
+  "name": "https://ydya-alt.github.io",
+  "display": "standalone"
+}
